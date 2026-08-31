@@ -1,0 +1,300 @@
+NULLS-STUDIO PROPRIETARY SOFTWARE LICENSE v1.0
+
+Copyright (c) 2026 Nulls-studio
+
+Contact: developper.faucon2@gmail.com
+
+
+1. OWNERSHIP
+
+The Software, including but not limited to its source code, object code,
+compiled binaries, executables, documentation, assets, configurations,
+and associated materials, is and remains the exclusive property of
+Nulls-studio.
+
+Contributors to the Software do not obtain ownership, copyright ownership,
+or independent rights to the Software merely by contributing to it.
+
+Contributors may be acknowledged within the Software or its documentation,
+but such acknowledgement does not grant them ownership or control over
+the Software.
+
+All rights not expressly granted by this license are reserved by
+Nulls-studio.
+
+
+2. CONFIDENTIALITY
+
+The Software is confidential and proprietary information belonging to
+Nulls-studio.
+
+You must not disclose, publish, expose, upload, transmit, or otherwise make
+the Software or any unauthorized portion of it available to any person or
+organization.
+
+This includes, without limitation:
+
+- Source code.
+- Object code.
+- Compiled binaries.
+- Executables.
+- Internal documentation.
+- Internal configurations.
+- Private repositories or copies.
+- Derivative or extracted portions of the Software.
+
+Access to the Software does not grant any right to disclose or redistribute
+it.
+
+
+3. DISTRIBUTION
+
+The Software may not be distributed, redistributed, published, uploaded,
+shared, sold, rented, sublicensed, transferred, mirrored, or otherwise
+made available by any person or organization except Nulls-studio or a
+party expressly authorized in writing by Nulls-studio.
+
+Nulls-studio may sell, license, provide, or otherwise commercially
+distribute copies of the Software, including compiled, packaged,
+minified, encrypted, obfuscated, or otherwise non-source versions.
+
+Any copy commercially distributed by Nulls-studio is provided solely to
+the specific purchaser or authorized recipient.
+
+A recipient may not redistribute, resell, sublicense, share, transfer,
+mirror, publish, or otherwise make their copy of the Software available
+to any third party unless expressly authorized in writing by Nulls-studio.
+
+The purchase or receipt of a copy of the Software does not grant the
+recipient the right to distribute additional copies.
+
+
+4. AUTHORIZED USE
+
+The Software may only be used:
+
+- By Nulls-studio.
+- By a customer or recipient who has obtained an authorized copy directly
+  from Nulls-studio.
+- On local environments controlled by Nulls-studio or an authorized
+  recipient, solely for purposes permitted by Nulls-studio.
+- On servers, infrastructure, systems, or other environments expressly
+  authorized by Nulls-studio.
+
+Commercial purchase or receipt of the Software does not transfer ownership
+of the Software to the purchaser or recipient.
+
+A purchase, license, or other authorization grants only the limited right
+to use the specific copy of the Software in accordance with this license
+and any additional terms provided by Nulls-studio.
+
+The Software may not be used independently of Nulls-studio-controlled
+projects, services, infrastructure, or activities except where such use
+has been expressly authorized in writing by Nulls-studio.
+
+
+5. RESTRICTIONS ON USE AND REDISTRIBUTION
+
+Without prior written permission from Nulls-studio, you may not:
+
+- Clone the Software.
+- Fork the Software.
+- Mirror the Software.
+- Duplicate the Software for independent use.
+- Redistribute or resell the Software.
+- Share the Software with another person or organization.
+- Sublicense or transfer access to the Software.
+- Upload the Software to a public or private repository.
+- Upload the Software to a file-sharing service, marketplace, archive,
+  package registry, or similar service.
+- Provide another person or organization with a copy of the Software.
+- Provide another person or organization with access to the Software in
+  a manner that allows them to obtain or use an unauthorized copy.
+- Use the Software or any portion of its source code, object code,
+  compiled code, or assets in another independent project.
+- Incorporate any portion of the Software into another software project.
+- Create a competing or independent implementation based on the Software.
+- Create derivative works of the Software for independent use.
+- Extract, reuse, or repurpose code, assets, configurations, or other
+  components of the Software for purposes unrelated to Nulls-studio.
+- Remove copyright notices, license notices, or proprietary notices from
+  the Software.
+- Circumvent technical measures intended to prevent unauthorized copying,
+  redistribution, or use of the Software.
+
+These restrictions apply regardless of whether the resulting copy,
+modification, or derivative work is distributed publicly or kept private.
+
+
+6. OBFUSCATED AND COMPILED COPIES
+
+Nulls-studio may distribute the Software in compiled, packaged, minified,
+encrypted, obfuscated, or otherwise non-source form.
+
+An obfuscated or compiled copy remains the proprietary and confidential
+property of Nulls-studio.
+
+Receiving, purchasing, or obtaining an obfuscated or compiled copy does
+not grant access to, ownership of, or rights to the underlying source code.
+
+Obfuscated and compiled copies may not be redistributed, resold,
+sublicensed, shared, mirrored, transferred, or otherwise made available
+to third parties without prior written permission from Nulls-studio.
+
+Any attempt to extract, reconstruct, recover, or reproduce the source code
+or substantial underlying implementation from an obfuscated or compiled
+copy is prohibited, except to the extent that such restriction is
+prohibited by applicable law.
+
+Technical protection measures included in an obfuscated or compiled copy
+may not be removed, bypassed, disabled, or circumvented for the purpose of
+obtaining unauthorized access to the Software or enabling unauthorized
+redistribution.
+
+
+7. SOURCE AND OBJECT CODE
+
+The source code and object code of the Software are proprietary and
+confidential.
+
+No right is granted to obtain, copy, modify, reproduce, distribute,
+publish, disclose, or reuse the source code or object code except where
+expressly authorized in writing by Nulls-studio.
+
+Access to source code for development, maintenance, contribution, or other
+authorized purposes does not transfer ownership or grant any independent
+license to use the source code.
+
+Any source code provided to an authorized contributor, contractor,
+customer, or other party remains the confidential property of Nulls-studio.
+
+
+8. CONTRIBUTIONS
+
+Any contribution made to the Software is provided for incorporation into
+the Software and does not, by itself, grant the contributor ownership or
+control over the Software.
+
+Contributors may be identified through notices, credits, documentation,
+or other acknowledgements within the Software.
+
+Such acknowledgement does not constitute ownership, co-ownership, or a
+license to independently use, distribute, sell, or reproduce the Software.
+
+Where necessary, separate written agreements may govern the intellectual
+property rights associated with contributions.
+
+
+9. LICENSE DISTRIBUTION
+
+This license may be freely shared and distributed, provided that it is
+distributed exactly as provided by Nulls-studio.
+
+This license may not be modified, adapted, translated, abridged, extended,
+renamed, or otherwise altered without prior written permission from
+Nulls-studio.
+
+A modified version of this license must not be represented as the official
+Nulls-studio Proprietary Software License.
+
+Any copy of this license must remain complete and unmodified.
+
+Permission to distribute this license does not constitute permission to
+distribute the Software.
+
+
+10. NO TRANSFER OF RIGHTS
+
+Except for the limited rights expressly granted by this license, no rights
+are granted to the Software.
+
+This license does not grant:
+
+- Ownership rights.
+- Copyright rights.
+- Trademark rights.
+- Patent rights.
+- Distribution rights.
+- Sublicensing rights.
+- Rights to create independent derivative works.
+- Rights to use the Software for unrelated projects.
+- Rights to disclose confidential portions of the Software.
+
+All rights not expressly granted are reserved by Nulls-studio.
+
+
+11. TERMINATION
+
+Any permission granted under this license immediately terminates upon
+violation of any provision of this license.
+
+Upon termination, you must immediately:
+
+- Cease all unauthorized use of the Software.
+- Cease all unauthorized access to the Software.
+- Cease all distribution or attempted distribution of the Software.
+- Delete all unauthorized copies of the Software in your possession or
+  control, upon request from Nulls-studio.
+
+Termination does not affect any rights, claims, or remedies that
+Nulls-studio may have under applicable law.
+
+Nulls-studio may also revoke any specific authorization granted to a
+recipient where permitted by applicable law.
+
+
+12. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY,
+RELIABILITY, OR AVAILABILITY.
+
+NULLS-STUDIO DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+SECURE, UNINTERRUPTED, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NULLS-STUDIO AND ITS
+CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING OUT OF OR
+RELATED TO THE SOFTWARE, ITS USE, INABILITY TO USE, OR ANY BREACH OF THIS
+LICENSE.
+
+NOTHING IN THIS LICENSE SHALL EXCLUDE OR LIMIT LIABILITY WHERE SUCH
+EXCLUSION OR LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+
+
+14. GOVERNING LAW
+
+This license and any dispute arising from or relating to the Software or
+this license shall be governed by and interpreted in accordance with the
+laws of France.
+
+Any mandatory rules of applicable French law remain unaffected by this
+license.
+
+
+15. CONTACT
+
+For licensing requests, commercial licensing, redistribution permissions,
+authorization requests, legal notices, or other matters concerning this
+license, contact:
+
+developper.faucon2@gmail.com
+
+
+16. ACCEPTANCE
+
+By accessing or using the Software, you acknowledge that the Software is
+proprietary and confidential and agree to comply with the terms of this
+license.
+
+Any use of the Software constitutes acceptance of these terms to the extent
+permitted by applicable law.
+
+
+NULLS-STUDIO PROPRIETARY SOFTWARE LICENSE v1.0
+
+Copyright (c) 2026 Nulls-studio
